@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "e4fb56aa85b07962",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54c7846751257d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1bb6b6fdc93e945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RENIFORCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "079ad41d9b4b5454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RENIFORCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68433579482a8d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7281b909de4e0452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f64dbaba14c3e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "024c838360a35a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e7a2729ace05d05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a10e8db5b9fb2c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "0497aef0ef02d6b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573208b7dd8c355b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RENIFORCE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c49d45a52a5318c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RENIFORCE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1bb1bfc7180cd09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c60af011592ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RENIFORCE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "079ad41d9b4b5454",
+  "lastOpenFiles": [
+    "RENIFORCE.md",
+    "RL Basis.md",
+    "PPO.md",
+    "Untitled",
+    "DPO",
+    "DPO",
+    "Untitled.canvas",
+    "Distributed.md",
+    "Welcome.md"
+  ]
+}
