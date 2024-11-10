@@ -26,4 +26,4 @@
 ## torch.DistributedDataParallel vs Accelerate
 Accelerate - это обертка над DistributedDataParallel, которая позволяет не писать boilerplate код.
 
-[Статья со сравнением DDP vs Accelerate vs Transformers Trainer](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers) 
+[Cравнение DDP vs Accelerate vs Transformers Trainer](https://huggingface.co/blog/pytorch-ddp-accelerate-transformers) 
