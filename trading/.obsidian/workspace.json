@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bars.md",
+                "file": "Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bars"
+              "title": "Metrics"
             }
           }
         ],
@@ -173,6 +173,6 @@
   "active": "02c2596fae9bebd7",
   "lastOpenFiles": [
     "Bars.md",
-    "Welcome.md"
+    "Metrics.md"
   ]
 }
