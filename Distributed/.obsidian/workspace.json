@@ -1,84 +1,56 @@
 {
   "main": {
-    "id": "060a80ea393491ad",
+    "id": "e4fb56aa85b07962",
     "type": "split",
     "children": [
       {
-        "id": "3174abc1c015b592",
+        "id": "c54c7846751257d5",
         "type": "tabs",
         "children": [
           {
-            "id": "767ba259e727987d",
+            "id": "a1bb6b6fdc93e945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Parallel/DistibutedDataParallel.md",
+                "file": "RENIFORCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DistibutedDataParallel"
+              "title": "RENIFORCE"
             }
           },
           {
-            "id": "50056e39c7cd868a",
+            "id": "079ad41d9b4b5454",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pipeline parallelism.md",
+                "file": "RENIFORCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline parallelism"
-            }
-          },
-          {
-            "id": "9cf39cde183803cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Parallel/DistibutedDataParallel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DistibutedDataParallel"
-            }
-          },
-          {
-            "id": "8eec231159a32f2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all_redulce.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "all_redulce"
+              "title": "RENIFORCE"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "071bcb4def278108",
+    "id": "68433579482a8d81",
     "type": "split",
     "children": [
       {
-        "id": "881293d9c24cd5e2",
+        "id": "7281b909de4e0452",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4ef93ffcc53fd9",
+            "id": "82f64dbaba14c3e3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,7 +62,7 @@
             }
           },
           {
-            "id": "79166e93aec3c98c",
+            "id": "024c838360a35a67",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -107,7 +79,7 @@
             }
           },
           {
-            "id": "d41fbfb7089da733",
+            "id": "5e7a2729ace05d05",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -123,20 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "5eb7f016e5bc26db",
+    "id": "a10e8db5b9fb2c77",
     "type": "split",
     "children": [
       {
-        "id": "30695046e283d921",
+        "id": "0497aef0ef02d6b9",
         "type": "tabs",
         "children": [
           {
-            "id": "273a1d864a61f46d",
+            "id": "573208b7dd8c355b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Parallel/DistibutedDataParallel.md",
+                "file": "RENIFORCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,25 +118,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DistibutedDataParallel"
+              "title": "Backlinks for RENIFORCE"
             }
           },
           {
-            "id": "ca020cf29d7f75b6",
+            "id": "c49d45a52a5318c7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Parallel/DistibutedDataParallel.md",
+                "file": "RENIFORCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DistibutedDataParallel"
+              "title": "Outgoing links from RENIFORCE"
             }
           },
           {
-            "id": "a4209071cd770ccf",
+            "id": "b1bb1bfc7180cd09",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,15 +149,15 @@
             }
           },
           {
-            "id": "bb2cd2e4b80aefe8",
+            "id": "8c60af011592ad4d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Parallel/DistibutedDataParallel.md"
+                "file": "RENIFORCE.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DistibutedDataParallel"
+              "title": "Outline of RENIFORCE"
             }
           }
         ]
@@ -205,17 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cf39cde183803cc",
+  "active": "079ad41d9b4b5454",
   "lastOpenFiles": [
-    "all_redulce.md",
-    "Sequence parallelism.md",
-    "Pipeline parallelism.md",
+    "RENIFORCE.md",
+    "RL Basis.md",
+    "PPO.md",
     "Untitled",
-    "ZERO/ZERO.md",
-    "Data Parallel/DistibutedDataParallel.md",
-    "ZERO",
-    "FSDP",
-    "DeepSpeed",
-    "Data Parallel"
+    "DPO",
+    "DPO",
+    "Untitled.canvas",
+    "Distributed.md",
+    "Welcome.md"
   ]
 }
