@@ -2,4 +2,4 @@
 2. [A clear example of how does mixed precision works with simple linear layer](https://discuss.pytorch.org/t/how-does-automatic-mixed-precision-handle-input-downscaling/168487)  
 3. [More details about FP precision](https://dev-discuss.pytorch.org/t/more-in-depth-details-of-floating-point-precision/654)
 4. [A great article about FP](https://ciechanow.ski/exposing-floating-point/)
-5. 
+5. [GPU MODE gh](https://github.com/gpu-mode)

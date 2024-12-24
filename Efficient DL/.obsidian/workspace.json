@@ -208,10 +208,10 @@
   },
   "active": "7aef89965df23769",
   "lastOpenFiles": [
-    "Other.md",
-    "Quantization.md",
-    "LLM inference.md",
     "GPU utilization.md",
+    "LLM inference.md",
+    "Quantization.md",
+    "Other.md",
     "Untitled",
     "GPU utilization"
   ]
