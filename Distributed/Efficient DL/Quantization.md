@@ -1,6 +1,0 @@
-1. [Reddit page on the discussion of different quantization method](https://www.reddit.com/r/LocalLLaMA/comments/14719ch/nf4_inference_quantization_is_awesome_comparison/) 
-2. [Blogpost on the GPTQ vs AWQ vs GGUF](https://newsletter.maartengrootendorst.com/p/which-quantization-method-is-right)
-3. [Some github issue that compares different quantization methods](https://github.com/ml-explore/mlx/issues/135)
-4. [AWQ paper](https://arxiv.org/abs/2306.00978)
-5. [Good habr post on the quantization methods](https://habr.com/ru/companies/yandex/articles/800945/)
-6. [FP8 quantization paper](https://arxiv.org/pdf/2208.09225)
