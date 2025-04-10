@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "e4fb56aa85b07962",
+    "id": "b6a7705fdf5730d1",
     "type": "split",
     "children": [
       {
-        "id": "c54c7846751257d5",
+        "id": "a895dce3fc763f1d",
         "type": "tabs",
         "children": [
           {
-            "id": "079ad41d9b4b5454",
+            "id": "25e83c99b79df721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimizers.md",
+                "file": "Лекция 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Optimizers"
-            }
-          },
-          {
-            "id": "c1394f8b169e6378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EM"
-            }
-          },
-          {
-            "id": "321f0ff9b8461331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EM"
+              "title": "Лекция 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "68433579482a8d81",
+    "id": "e4b91221ae3abde6",
     "type": "split",
     "children": [
       {
-        "id": "7281b909de4e0452",
+        "id": "2b7c235382a3208e",
         "type": "tabs",
         "children": [
           {
-            "id": "82f64dbaba14c3e3",
+            "id": "f2e6da799fff9e72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "024c838360a35a67",
+            "id": "013f2a789caac9dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "5e7a2729ace05d05",
+            "id": "c168a486ed01fb52",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a10e8db5b9fb2c77",
+    "id": "315fd4cfb98e0d70",
     "type": "split",
     "children": [
       {
-        "id": "0497aef0ef02d6b9",
+        "id": "57d2186a4f3abe8a",
         "type": "tabs",
         "children": [
           {
-            "id": "573208b7dd8c355b",
+            "id": "a12920dd25f5e477",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RENIFORCE.md",
+                "file": "Лекция 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,46 +104,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RENIFORCE"
+              "title": "Backlinks for Лекция 1"
             }
           },
           {
-            "id": "c49d45a52a5318c7",
+            "id": "db7d41912e583d6c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RENIFORCE.md",
+                "file": "Лекция 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RENIFORCE"
+              "title": "Outgoing links from Лекция 1"
             }
           },
           {
-            "id": "b1bb1bfc7180cd09",
+            "id": "121de5508eaaf765",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "8c60af011592ad4d",
+            "id": "33e7ba6cbcba9eaf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "RENIFORCE.md"
+                "file": "Лекция 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RENIFORCE"
+              "title": "Outline of Лекция 1"
             }
           }
         ]
@@ -192,29 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "321f0ff9b8461331",
+  "active": "25e83c99b79df721",
   "lastOpenFiles": [
-    "VAE.md",
-    "EM.md",
-    "Optimizers.md",
-    "test.md",
-    "General ML/test.md",
-    "General ML/Untitled.md",
-    "General ML/Welcome.md",
-    "General ML",
-    "FSDP/FSDP + QLORA.md",
-    "Data Parallel/DistibutedDataParallel.md",
-    "Efficient DL/Quantization.md",
-    "Efficient DL/Other.md",
-    "Efficient DL/LLM inference.md",
-    "Efficient DL/GPU utilization.md",
-    "RENIFORCE.md",
-    "RL Basis.md",
-    "PPO.md",
-    "Untitled",
-    "DPO",
-    "DPO",
-    "Untitled.canvas",
-    "Distributed.md"
+    "Лекция 1.md"
   ]
 }

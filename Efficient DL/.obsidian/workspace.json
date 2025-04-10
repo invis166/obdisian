@@ -83,7 +83,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -208,10 +209,10 @@
   },
   "active": "7aef89965df23769",
   "lastOpenFiles": [
-    "GPU utilization.md",
-    "Quantization.md",
     "Other.md",
+    "Quantization.md",
     "LLM inference.md",
+    "GPU utilization.md",
     "Untitled",
     "GPU utilization"
   ]
