@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EM.md",
+                "file": "VAE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EM"
+              "title": "VAE"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "321f0ff9b8461331",
   "lastOpenFiles": [
-    "VAE.md",
-    "EM.md",
     "Optimizers.md",
+    "EM.md",
+    "VAE.md",
     "test.md",
     "General ML/test.md",
     "General ML/Untitled.md",

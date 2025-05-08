@@ -1,0 +1,1 @@
+https://hackernoon.com/understanding-the-roofline-model

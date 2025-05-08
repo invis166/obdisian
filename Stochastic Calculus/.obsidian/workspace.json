@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b6a7705fdf5730d1",
+    "id": "1cb00795221e2dc6",
     "type": "split",
     "children": [
       {
-        "id": "a895dce3fc763f1d",
+        "id": "439f2d01076ffac7",
         "type": "tabs",
         "children": [
           {
-            "id": "25e83c99b79df721",
+            "id": "43b5e43cbaf0d7cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекция 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Лекция 1"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e4b91221ae3abde6",
+    "id": "8ebe69af6d12cf9b",
     "type": "split",
     "children": [
       {
-        "id": "2b7c235382a3208e",
+        "id": "04cafb536ee70302",
         "type": "tabs",
         "children": [
           {
-            "id": "f2e6da799fff9e72",
+            "id": "f196c632ba847da0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "013f2a789caac9dd",
+            "id": "7b9cf91afa8a3083",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "c168a486ed01fb52",
+            "id": "5ca0d409d26bae5d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,20 @@
     "width": 300
   },
   "right": {
-    "id": "315fd4cfb98e0d70",
+    "id": "7cad06dc5935d266",
     "type": "split",
     "children": [
       {
-        "id": "57d2186a4f3abe8a",
+        "id": "9641e5932ebc1660",
         "type": "tabs",
         "children": [
           {
-            "id": "a12920dd25f5e477",
+            "id": "a480e0e978a52a58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекция 1.md",
+                "file": "Теорема продолжения Каратеодори.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Лекция 1"
+              "title": "Backlinks for Теорема продолжения Каратеодори"
             }
           },
           {
-            "id": "db7d41912e583d6c",
+            "id": "cf05d2ac22f9b66e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекция 1.md",
+                "file": "Теорема продолжения Каратеодори.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лекция 1"
+              "title": "Outgoing links from Теорема продолжения Каратеодори"
             }
           },
           {
-            "id": "121de5508eaaf765",
+            "id": "1ac23e31b2a73c36",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +133,18 @@
             }
           },
           {
-            "id": "33e7ba6cbcba9eaf",
+            "id": "f279ac9eabd8e907",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекция 1.md",
+                "file": "Теорема продолжения Каратеодори.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекция 1"
+              "title": "Outline of Теорема продолжения Каратеодори"
             }
           }
         ]
@@ -168,8 +164,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e83c99b79df721",
+  "active": "f196c632ba847da0",
   "lastOpenFiles": [
-    "Лекция 1.md"
+    "Теорема продолжения и процесс Каратеодори.md"
   ]
 }

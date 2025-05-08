@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RL Basis.md",
+                "file": "Policy Gradient/RENIFORCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RL Basis"
+              "title": "RENIFORCE"
             }
           }
         ]
@@ -165,11 +165,12 @@
   },
   "active": "4e515b4cb33667f0",
   "lastOpenFiles": [
-    "Policy Gradient/RENIFORCE.md",
-    "Уравнения Беллмана.md",
+    "Policy Gradient/GAE.md",
     "Policy Gradient/PPO.md",
-    "Policy Gradient",
+    "Policy Gradient/RENIFORCE.md",
     "RL Basis.md",
+    "Уравнения Беллмана.md",
+    "Policy Gradient",
     "Welcome.md",
     "DPO",
     "DPO",
