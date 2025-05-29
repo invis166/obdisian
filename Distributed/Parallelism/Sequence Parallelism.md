@@ -1,0 +1,1 @@
+Sequence parallelism -- это когда мы режем тензор (batch_size, seq_len, hidden_dim) по размерности seq_len (заметим, что если резать по размерности batch_size, то будет в точности [[Data Parallelism]])

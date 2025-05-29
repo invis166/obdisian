@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VAE.md",
+                "file": "EM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VAE"
+              "title": "EM"
             }
           }
         ],
@@ -194,9 +194,17 @@
   },
   "active": "321f0ff9b8461331",
   "lastOpenFiles": [
-    "Optimizers.md",
+    "Логистическая регрессия/Постановка задачи.md",
+    "Логистическая регрессия/Метрики.md",
+    "Линейная регрессия/Метрики.md",
+    "Линейная регрессия/Постановка задачи.md",
+    "Логистическая регрессия",
     "EM.md",
+    "Optimizers.md",
     "VAE.md",
+    "Работа с пропусками.md",
+    "Решающие деревья.md",
+    "Линейная регрессия",
     "test.md",
     "General ML/test.md",
     "General ML/Untitled.md",
@@ -211,7 +219,6 @@
     "RENIFORCE.md",
     "RL Basis.md",
     "PPO.md",
-    "Untitled",
     "DPO",
     "DPO",
     "Untitled.canvas",
