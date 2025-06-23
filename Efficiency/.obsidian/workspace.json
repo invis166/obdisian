@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GPU Computation/Roofline Model.md",
+                "file": "GPU Computation/Arithmetic Intensity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roofline Model"
+              "title": "Arithmetic Intensity"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "25e83c99b79df721",
   "lastOpenFiles": [
+    "GPU Computation/Roofline Model.md",
+    "LLM inference.md",
     "GPU Computation/GPU utilization.md",
     "GPU Computation/Arithmetic Intensity.md",
-    "GPU Computation/Roofline Model.md",
     "Cuda Course Notes/Лекция 1.md",
     "GPU Computation",
     "Cuda Course Notes"
