@@ -53,12 +53,14 @@
             "id": "28dd32ef6972b64d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Metrics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Metrics"
             }
           }
         ],
@@ -207,8 +209,8 @@
   },
   "active": "28dd32ef6972b64d",
   "lastOpenFiles": [
-    "Metrics.md",
     "Bars.md",
+    "Metrics.md",
     "EM.md",
     "Optimizers.md",
     "VAE.md",
