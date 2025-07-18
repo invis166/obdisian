@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "a3e4d56d01286236",
+    "id": "00732c0f27ad61f2",
     "type": "split",
     "children": [
       {
-        "id": "eea16928f94ed1a2",
+        "id": "0ea3a10ecd133d2b",
         "type": "tabs",
         "children": [
           {
-            "id": "535080a9b462e387",
+            "id": "5ef5024b66f1888c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поиск экстремумов.md",
+                "file": "Декомпозиции/Декомпозиция Холевского.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поиск экстремумов"
-            }
-          },
-          {
-            "id": "31158bfc27704152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Точки множества.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Точки множества"
+              "title": "Декомпозиция Холевского"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "37e3828da2ab35c2",
+    "id": "ac9246ebc64efa39",
     "type": "split",
     "children": [
       {
-        "id": "cd3dd49ec8e98fb8",
+        "id": "f8653986e29c392f",
         "type": "tabs",
         "children": [
           {
-            "id": "ad3bb0d2f0986af0",
+            "id": "a213071018ef24e2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "f84005292536bdb7",
+            "id": "c7d779f3982811dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "248516cae246e69f",
+            "id": "684d51a95ae1a23f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "b93cb200ca644ae9",
+    "id": "1e165817a4fdf7e9",
     "type": "split",
     "children": [
       {
-        "id": "2f35694ae9fc0e81",
+        "id": "506d1a3a6b99e60d",
         "type": "tabs",
         "children": [
           {
-            "id": "3299e8d84aec2ef9",
+            "id": "8a0c796cb0fa7cd3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Числовые ряды/Трюки.md",
+                "file": "Декомпозиции/Декомпозиция Холевского.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Трюки"
+              "title": "Backlinks for Декомпозиция Холевского"
             }
           },
           {
-            "id": "18a39ca36777e57b",
+            "id": "3e79aebdfef57942",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Числовые ряды/Трюки.md",
+                "file": "Декомпозиции/Декомпозиция Холевского.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Трюки"
+              "title": "Outgoing links from Декомпозиция Холевского"
             }
           },
           {
-            "id": "6984d661ed941130",
+            "id": "50e4c86c4a5975d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,18 +137,18 @@
             }
           },
           {
-            "id": "9175895855cb8648",
+            "id": "8f9420d23b772b30",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Числовые ряды/Трюки.md",
+                "file": "Декомпозиции/Декомпозиция Холевского.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Трюки"
+              "title": "Outline of Декомпозиция Холевского"
             }
           }
         ]
@@ -182,32 +168,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "535080a9b462e387",
+  "active": "5ef5024b66f1888c",
   "lastOpenFiles": [
-    "Дифференцируемость/Прозиводная и дифференциал.md",
-    "Поиск экстремумов.md",
-    "Интеграл, зависящий от параметра.md",
-    "Дифференциальные уравнения.md",
-    "Асимптоты.md",
-    "Непрерывность/Непрерывность. Равномерная непрерывность..md",
-    "Непрерывность/Теорема Коши.md",
-    "Функциональные ряды/Виды сходимости функциональных рядов.md",
-    "Точки множества.md",
-    "Числовые ряды/Сходимость знакоположительных рядов.md",
-    "Числовые ряды/Признак Абеля.md",
-    "Функциональные ряды/Теорема Вейерштрасса о равномерной сходимости функционального ряда.md",
-    "Числовые ряды/Сходимость знакочередующихся рядов.md",
-    "Числовые последовательности/Частичный предел.md",
-    "Дифференцируемость/Теоремы о промежуточных значениях.md",
-    "Метод Ньютона.md",
-    "Дифференцируемость",
-    "Непрерывность",
-    "Ряд Тейлора.md",
-    "Числовые ряды/Трюки.md",
-    "Числовые последовательности",
-    "Функциональные ряды",
-    "Числовые ряды/Untitled",
-    "Welcome.md",
-    "Числовые ряды"
+    "Декомпозиции/QR.md",
+    "Декомпозиции/Декомпозиция Холевского.md",
+    "Декомпозиции/LU.md",
+    "Метод сопряженных градиентов.md",
+    "Декомпозиции",
+    "Метод Ньютона.md"
   ]
 }
