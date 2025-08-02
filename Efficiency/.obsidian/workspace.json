@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cuda Course Notes/Лекция 1.md",
+                "file": "Mixed Precision Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекция 1"
+              "title": "Mixed Precision Training"
             }
           }
         ]
@@ -168,15 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25e83c99b79df721",
+  "active": "f2e6da799fff9e72",
   "lastOpenFiles": [
+    "GPU Computation/Arithmetic Intensity.md",
+    "GPU Computation/GPU utilization.md",
+    "Mixed Precision Training.md",
+    "Cuda Course Notes/Лекция 1.md",
     "Quantization.md",
     "Other.md",
     "LLM inference.md",
     "GPU Computation/Roofline Model.md",
-    "GPU Computation/Arithmetic Intensity.md",
-    "GPU Computation/GPU utilization.md",
-    "Cuda Course Notes/Лекция 1.md",
     "GPU Computation",
     "Cuda Course Notes"
   ]

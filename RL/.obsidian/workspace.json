@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/Динамическое Программирование.md",
+                "file": "Value Based/Q-Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамическое Программирование"
+              "title": "Q-Learning"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/Динамическое Программирование.md",
+                "file": "Basics/Reward Shaping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Динамическое Программирование"
+              "title": "Reward Shaping"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,20 +197,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ca3eebb56682bd2",
+  "active": "85308b53cabde3d9",
   "lastOpenFiles": [
     "Basics/Уравнения Беллмана.md",
+    "Value Based/Q-Learning.md",
+    "Basics/Dynamic Programming.md",
+    "Policy Gradient/PPO.md",
+    "Policy Gradient/REINFORCE.md",
+    "Policy Gradient/GRPO.md",
+    "Natural Gradients.md",
+    "Policy Gradient/TRPO.md",
+    "Policy Gradient/Screenshot 2025-07-11 at 15.32.54.png",
+    "Value Based/Robbins-Monro.md",
+    "Value Based",
+    "Value Based.md",
+    "GAE.md",
+    "Basics/MDP.md",
     "Basics/Policy Improvement.md",
     "Basics/Reward Shaping.md",
     "Basics/Динамическое Программирование.md",
-    "Basics/MDP.md",
-    "Basics",
-    "Policy Gradient/TRPO.md",
-    "GAE.md",
-    "Policy Gradient/GRPO.md",
-    "Policy Gradient/PPO.md",
-    "Policy Gradient/REINFORCE.md",
-    "Natural Gradients.md",
-    "Policy Gradient/Screenshot 2025-07-11 at 15.32.54.png"
+    "Basics"
   ]
 }

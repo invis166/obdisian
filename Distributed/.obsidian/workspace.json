@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ring Attention.md",
+                "file": "Parallelism/Model Parallelism/ZERO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ring Attention"
+              "title": "ZERO"
             }
           }
         ]
@@ -165,18 +165,24 @@
   },
   "active": "079ad41d9b4b5454",
   "lastOpenFiles": [
-    "Parallelism/Model Parallelism/ZERO.md",
-    "Distributed GPU Operations/reduce_scatter.md",
-    "Distributed GPU Operations/all_reduce.md",
-    "Distributed GPU Operations/all_gather.md",
-    "Ring Attention.md",
+    "Parallelism/Model Parallelism/FSDP/FSDP.md",
+    "Parallelism/Model Parallelism/Model Parallel.md",
+    "Parallelism/Expert Parallelism.md",
+    "Parallelism/xD Parallelism.md",
     "Parallelism/Sequence Parallelism.md",
     "Parallelism/Pipeline Parallelism.md",
     "Parallelism/Data Parallelism.md",
-    "Parallelism/Виды параллелизма.md",
+    "Parallelism/Model Parallel.md",
+    "Parallelism/Model Parallelism/FSDP/FSDP + QLORA.md",
+    "Parallelism/Model Parallelism/ZERO.md",
+    "Distributed GPU Operations/broadcast.md",
+    "Distributed GPU Operations/all_gather.md",
+    "Distributed GPU Operations/all_reduce.md",
+    "Distributed GPU Operations/reduce_scatter.md",
+    "Distributed GPU Operations/reduce.md",
+    "Ring Attention.md",
     "Distributed GPU Operations",
     "Parallelism/Model Parallelism",
-    "Parallelism/Model Parallelism/FSDP/FSDP + QLORA.md",
     "trading/Metrics.md",
     "Parallelism",
     "trading/Bars.md",
@@ -189,12 +195,8 @@
     "Efficient DL/LLM inference.md",
     "Efficient DL/GPU utilization.md",
     "RENIFORCE.md",
-    "RL Basis.md",
-    "PPO.md",
     "DPO",
     "DPO",
-    "Untitled.canvas",
-    "Distributed.md",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

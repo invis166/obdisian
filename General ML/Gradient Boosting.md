@@ -1,1 +1,0 @@
-https://everdark.github.io/k9/notebooks/ml/gradient_boosting/gbt.nb.html

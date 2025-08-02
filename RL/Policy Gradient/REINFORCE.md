@@ -62,5 +62,5 @@ $$
 $$
 Данный подход помогает снизить дисперсию. $B(s_t)$ будем называть бейзлайном.
 
-
-https://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-notes14.pdf
+# Полезные ссылки
+1. https://cs229.stanford.edu/notes2020fall/notes2020fall/cs229-notes14.pdf

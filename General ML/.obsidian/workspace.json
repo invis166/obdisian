@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Логистическая регрессия/Метрики.md",
+                "file": "Деревянные алгоритмы/Решающие деревья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Метрики"
+              "title": "Решающие деревья"
             }
           }
         ]
@@ -165,20 +165,25 @@
   },
   "active": "c358b68313ddaf5f",
   "lastOpenFiles": [
-    "Линейная регрессия/Постановка задачи.md",
-    "Линейная регрессия/Обобщенная линейная регрессия.md",
-    "Линейная регрессия/Метрики.md",
-    "Логистическая регрессия/Метрики.md",
-    "Optimizers.md",
-    "Gradient Boosting.md",
-    "EM.md",
-    "VAE.md",
+    "Деревянные алгоритмы/Gradient Boosting.md",
+    "Экспоненциальный класс распределений.md",
     "Работа с пропусками.md",
     "Кластеризация.md",
-    "Линейная регрессия/F-test.md",
+    "VAE.md",
+    "Untitled.md",
+    "Uncertainty estimation.md",
+    "Quantile regression.md",
+    "Optimizers.md",
+    "Gaussian processes.md",
+    "EM.md",
+    "Деревянные алгоритмы/Решающие деревья.md",
     "Логистическая регрессия/Постановка задачи.md",
-    "Решающие деревья.md",
-    "Экспоненциальный класс распределений.md",
+    "Логистическая регрессия/Метрики.md",
+    "Линейная регрессия/Метрики.md",
+    "Деревянные алгоритмы",
+    "Линейная регрессия/Постановка задачи.md",
+    "Линейная регрессия/Обобщенная линейная регрессия.md",
+    "Линейная регрессия/F-test.md",
     "Логистическая регрессия",
     "Линейная регрессия",
     "test.md",
@@ -190,10 +195,6 @@
     "Data Parallel/DistibutedDataParallel.md",
     "Efficient DL/Quantization.md",
     "Efficient DL/Other.md",
-    "Efficient DL/LLM inference.md",
-    "Efficient DL/GPU utilization.md",
-    "RENIFORCE.md",
-    "RL Basis.md",
     "DPO",
     "DPO",
     "Untitled.canvas"
