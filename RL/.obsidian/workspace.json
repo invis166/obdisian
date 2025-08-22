@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basics/MDP.md",
+                "file": "Policy Gradient/REINFORCE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MDP"
+              "title": "REINFORCE"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Value Based/Q-Learning.md",
+                "file": "Basics/Policy Improvement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Q-Learning"
+              "title": "Policy Improvement"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Reward Shaping"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,24 +197,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85308b53cabde3d9",
+  "active": "c405469a1de4d923",
   "lastOpenFiles": [
-    "Basics/Уравнения Беллмана.md",
-    "Value Based/Q-Learning.md",
-    "Basics/Dynamic Programming.md",
-    "Policy Gradient/PPO.md",
+    "Policy Gradient/Actor Critic.md",
+    "Basics/Policy Improvement.md",
     "Policy Gradient/REINFORCE.md",
-    "Policy Gradient/GRPO.md",
+    "Policy Gradient/Расщепление Стохастики.md",
+    "GAE.md",
     "Natural Gradients.md",
-    "Policy Gradient/TRPO.md",
-    "Policy Gradient/Screenshot 2025-07-11 at 15.32.54.png",
+    "Value Based/Q-Learning.md",
     "Value Based/Robbins-Monro.md",
+    "Value Based/SARSA.md",
+    "Policy Gradient/PPO.md",
+    "Basics/MDP.md",
+    "Policy Gradient/Screenshot 2025-07-11 at 15.32.54.png",
+    "Policy Gradient/TRPO.md",
+    "Policy Gradient/GRPO.md",
+    "Basics/Reward Shaping.md",
+    "Basics/Уравнения Беллмана.md",
+    "Basics/Dynamic Programming.md",
     "Value Based",
     "Value Based.md",
-    "GAE.md",
-    "Basics/MDP.md",
-    "Basics/Policy Improvement.md",
-    "Basics/Reward Shaping.md",
     "Basics/Динамическое Программирование.md",
     "Basics"
   ]

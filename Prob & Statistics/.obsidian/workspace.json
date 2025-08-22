@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теория меры/Мера. Вероятность.md",
+                "file": "Importance Sampling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мера. Вероятность"
+              "title": "Importance Sampling"
             }
           }
         ],

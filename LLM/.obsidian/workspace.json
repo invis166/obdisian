@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MOE/DeepSeekMoE.md",
+                "file": "MCTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DeepSeekMoE"
+              "title": "MCTS"
             }
           }
         ],
@@ -184,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -194,8 +195,9 @@
   },
   "active": "f58896cf288b6bfd",
   "lastOpenFiles": [
-    "MOE/Mixtral of Experts.md",
+    "Attention/Grouped Attention.md",
     "MOE/DeepSeekMoE.md",
+    "MOE/Mixtral of Experts.md",
     "Attention/Multihead Attention.md",
     "Attention/Sliding Window Attention.md",
     "Papers/DeepSeek V2.md",
@@ -204,7 +206,6 @@
     "Positional Encoding/RoPE.md",
     "Attention/Linear Attention.md",
     "Attention/Latent Multihead Attention.md",
-    "Attention/Grouped Attention.md",
     "Untitled.md",
     "MOE",
     "Attention/1_r-3sWaUT4K-5ogX99hqT0A.png",

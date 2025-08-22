@@ -45,7 +45,7 @@ m_t &= \beta m_{t - 1} + (1- \beta)g_t \\
 G_t &= \gamma G_{t - 1} + (1- \gamma)g_t^2 \\
 m_t &= \frac{m_t}{1 - \beta^t} \\
 G_t &= \frac{G_t}{1 - \gamma^t} \\
-\theta_{t+1} &= \theta_{t} - \alpha\frac{m_t}{\sqrt{G_t} + \epsilon} g_t
+\theta_{t+1} &= \theta_{t} - \alpha\frac{m_t}{\sqrt{G_t} + \epsilon}
 \end{aligned}
 $$
 Суть нормирования на $1 - \beta^t$  и $1 - \gamma^t$ в том, что раскрыв скобки, можно убедиться, что без нормировки оценка получается смещенной. Чем дальше, тем меньше смещение, однако в начале оно довольно большое.

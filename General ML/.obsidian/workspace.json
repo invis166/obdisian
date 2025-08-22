@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деревянные алгоритмы/Решающие деревья.md",
+                "file": "EM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Решающие деревья"
+              "title": "EM"
+            }
+          },
+          {
+            "id": "0528992b58741826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кластеризация/K-Means.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K-Means"
+            }
+          },
+          {
+            "id": "cd556dbbf8ac587a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Кластеризация/Gaussian Mixture Model.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaussian Mixture Model"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,38 +193,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c358b68313ddaf5f",
+  "active": "0528992b58741826",
   "lastOpenFiles": [
-    "Деревянные алгоритмы/Gradient Boosting.md",
-    "Экспоненциальный класс распределений.md",
-    "Работа с пропусками.md",
-    "Кластеризация.md",
-    "VAE.md",
-    "Untitled.md",
-    "Uncertainty estimation.md",
-    "Quantile regression.md",
+    "Кластеризация/Как определять количество кластеров.md",
+    "Кластеризация/K-Means.md",
+    "Кластеризация/Gaussian Mixture Model.md",
+    "Кластеризация/DBScan.md",
+    "EM.md",
     "Optimizers.md",
     "Gaussian processes.md",
-    "EM.md",
+    "Деревянные алгоритмы/Gradient Boosting.md",
     "Деревянные алгоритмы/Решающие деревья.md",
+    "VAE.md",
+    "Uncertainty estimation.md",
+    "Quantile regression.md",
+    "Экспоненциальный класс распределений.md",
+    "Работа с пропусками.md",
     "Логистическая регрессия/Постановка задачи.md",
     "Логистическая регрессия/Метрики.md",
-    "Линейная регрессия/Метрики.md",
-    "Деревянные алгоритмы",
     "Линейная регрессия/Постановка задачи.md",
     "Линейная регрессия/Обобщенная линейная регрессия.md",
+    "Линейная регрессия/Метрики.md",
+    "Кластеризация/КластерМПизация.md",
+    "Untitled.md",
+    "Кластеризация",
+    "Untitled 1.md",
+    "Деревянные алгоритмы",
     "Линейная регрессия/F-test.md",
     "Логистическая регрессия",
     "Линейная регрессия",
     "test.md",
     "General ML/test.md",
     "General ML/Untitled.md",
-    "General ML/Welcome.md",
     "General ML",
-    "FSDP/FSDP + QLORA.md",
-    "Data Parallel/DistibutedDataParallel.md",
-    "Efficient DL/Quantization.md",
-    "Efficient DL/Other.md",
     "DPO",
     "DPO",
     "Untitled.canvas"

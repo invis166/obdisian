@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mixed Precision Training.md",
+                "file": "Batching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mixed Precision Training"
+              "title": "Batching"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,15 +169,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2e6da799fff9e72",
+  "active": "25e83c99b79df721",
   "lastOpenFiles": [
     "GPU Computation/Arithmetic Intensity.md",
-    "GPU Computation/GPU utilization.md",
-    "Mixed Precision Training.md",
+    "Batching.md",
+    "Links.md",
     "Cuda Course Notes/Лекция 1.md",
+    "Mixed Precision Training.md",
+    "GPU Computation/GPU utilization.md",
     "Quantization.md",
     "Other.md",
-    "LLM inference.md",
     "GPU Computation/Roofline Model.md",
     "GPU Computation",
     "Cuda Course Notes"
