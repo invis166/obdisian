@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metrics.md",
+                "file": "Asset Pricing/Single Index Model (SIM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metrics"
+              "title": "Single Index Model (SIM)"
             }
           }
         ],
@@ -210,8 +210,10 @@
   },
   "active": "28dd32ef6972b64d",
   "lastOpenFiles": [
-    "Binomial Model.md",
+    "Asset Pricing/Binomial Model.md",
+    "Asset Pricing/Single Index Model (SIM).md",
     "Bars.md",
+    "Asset Pricing",
     "Metrics.md",
     "EM.md",
     "Optimizers.md",
@@ -230,7 +232,6 @@
     "RENIFORCE.md",
     "RL Basis.md",
     "PPO.md",
-    "Untitled",
     "DPO",
     "DPO",
     "Untitled.canvas",
