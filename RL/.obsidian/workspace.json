@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Policy Gradient/REINFORCE.md",
+                "file": "Basics/Уравнения Беллмана.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REINFORCE"
+              "title": "Уравнения Беллмана"
             }
           },
           {
@@ -199,9 +199,11 @@
   },
   "active": "c405469a1de4d923",
   "lastOpenFiles": [
+    "Basics/Reward Shaping.md",
+    "Value Based/Bias-Variance tradeoff & Credit assignment.md",
+    "Policy Gradient/REINFORCE.md",
     "Policy Gradient/Actor Critic.md",
     "Basics/Policy Improvement.md",
-    "Policy Gradient/REINFORCE.md",
     "Policy Gradient/Расщепление Стохастики.md",
     "GAE.md",
     "Natural Gradients.md",
@@ -213,7 +215,6 @@
     "Policy Gradient/Screenshot 2025-07-11 at 15.32.54.png",
     "Policy Gradient/TRPO.md",
     "Policy Gradient/GRPO.md",
-    "Basics/Reward Shaping.md",
     "Basics/Уравнения Беллмана.md",
     "Basics/Dynamic Programming.md",
     "Value Based",

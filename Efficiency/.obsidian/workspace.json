@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Batching.md",
+                "file": "Serving/Batching.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,11 @@
   },
   "active": "25e83c99b79df721",
   "lastOpenFiles": [
+    "Serving/Chunked Prefill.md",
+    "Serving/Paged Attention.md",
+    "Serving/Batching.md",
+    "Serving",
     "GPU Computation/Arithmetic Intensity.md",
-    "Batching.md",
     "Links.md",
     "Cuda Course Notes/Лекция 1.md",
     "Mixed Precision Training.md",
